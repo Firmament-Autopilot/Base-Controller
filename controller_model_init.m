@@ -1,4 +1,4 @@
-model_version = 'v0.1.0';
+model_version = 'v0.2.0';
 model_name = 'Base Controller';
 
 %% load configuration
